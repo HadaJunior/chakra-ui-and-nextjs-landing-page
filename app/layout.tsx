@@ -6,10 +6,10 @@ import "./globals.css";
 import { Providers } from "./providers";
 import NavBar from "@/components/Navbar";
 
-export const metadata = {
-  title: "Landing page",
-  description: "Create a website with chakra-ui components",
-};
+// export const metadata = {
+//   title: "Landing page",
+//   description: "Create a website with chakra-ui components",
+// };
 
 export default function RootLayout({
   children,
